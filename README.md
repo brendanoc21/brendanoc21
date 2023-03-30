@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brendanoc21&count_private=true&theme=monokai&showicons=true)]()
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brendanoc21&theme=monokai)](https://github.com/brendanoc21/github-readme-stats)
+
 <!--
 **brendanoc21/brendanoc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
