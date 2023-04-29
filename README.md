@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my GitHub
+My Github pages can be found [here](https://brendanoc21.github.io/)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brendanoc21&count_private=true&theme=monokai&showicons=true)]()
 
